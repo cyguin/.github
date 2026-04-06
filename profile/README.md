@@ -6,6 +6,8 @@
 
 **Drop-in developer tools — open-core, self-hosted, no lock-in.**
 
+(unrelated to https://cygwin.com/. we're not that cool.)
+
 [![npm packages](https://img.shields.io/badge/npm-%40cyguin-FFD700?style=flat-square&logo=npm&logoColor=000)](https://www.npmjs.com/org/cyguin)
 [![License](https://img.shields.io/badge/license-MIT-FFD700?style=flat-square)](https://github.com/cyguin)
 [![Website](https://img.shields.io/badge/website-cyguin.com-FFD700?style=flat-square)](https://cyguin.com)
